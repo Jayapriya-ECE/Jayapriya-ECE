@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Jayapriya 
+ECE Student 
+Learning C and Python
+Interested in VLSI
+Building projects and improving my skills
 
 <!--
 **Jayapriya-ECE/Jayapriya-ECE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
